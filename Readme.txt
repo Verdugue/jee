@@ -1,0 +1,1 @@
+Met le dossier main.go et pli07.txt dans un sous dossier main et execute dans le dossier main
